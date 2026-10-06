@@ -5,3 +5,4 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 
 .photo-stamp{top:auto;bottom:65px}@media(max-width:760px){.photo-stamp{top:auto;bottom:42px}}
+.photo-stamp{display:grid;place-content:center;text-align:center}
